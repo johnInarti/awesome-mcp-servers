@@ -421,6 +421,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- [Agent Passport](https://github.com/johnInarti/agent-passport-mcp) - Issue and independently verify agent passports and AI-decision receipts signed with ML-DSA-65 (NIST FIPS 204), checked offline against a key pinned in source rather than the key quoted in the receipt.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
